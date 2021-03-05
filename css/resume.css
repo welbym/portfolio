@@ -50,8 +50,8 @@ p.lead {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  font-size: 1.5rem;
+  font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 1.3rem;
 }
 
 .social-icons a {
@@ -76,12 +76,28 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 3rem;
+  font-size: 4rem;
   color: #363e45
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #1144dd;
+  color: #2FAD15;
+}
+
+.list-inline-item {
+  padding-right: 12px;
+}
+
+.list-item-icon {
+  padding-top: 5px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.list-item-text {
+  font-size: 1.4rem;
+  text-align: center;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
