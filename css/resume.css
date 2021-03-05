@@ -198,14 +198,7 @@ a:hover, a:focus, a:active {
   color: #1144dd;
 }
 
-.center-plus {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: #cdc;
-}
-
-.center-plus:hover {
-    color: #898;
+.portfolio-item-text {
+  font-size: 1.4rem;
+  text-align: center;
 }
