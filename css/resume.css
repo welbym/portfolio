@@ -81,7 +81,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #2FAD15;
+  color: #293eca;
 }
 
 .list-inline-item {
@@ -183,11 +183,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #434d57 !important;
+  background-color: #4979a8 !important;
 }
 
 .text-primary {
-  color: #3366ff !important;
+  color: #293eca !important;
 }
 
 a {
